@@ -1,0 +1,4 @@
+sources:
+  "0.1.2":
+    url: "https://github.com/getsentry/sentry-native/archive/0.1.2.tar.gz"
+    sha256: "d3b55b5e4d808aaafcfd19299c2d0b09a1a905edb20f1dbcc8d8b69f2560ecbf"

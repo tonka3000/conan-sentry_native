@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+test_package/build
+thumbs.db
+.DS_Store
+.vs
+.vscode
